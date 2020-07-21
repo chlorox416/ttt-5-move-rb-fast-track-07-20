@@ -7,7 +7,7 @@ def display_board(board)
 end
 
 # code your input_to_index and move method here!
-position = ["1"]
 
-def input_to_index(position)
+def input_to_index(number)
+  puts "#{number} + 1"
 end
